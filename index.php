@@ -58,37 +58,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
 }
 
 ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <?php
 /*Function is used for finding min of array*/
 function minarray($mang){
